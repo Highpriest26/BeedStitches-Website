@@ -1,0 +1,26 @@
+BEEDSTITCHES ANTIGRAVITY STARTER PACKAGE
+
+1. Read beedstitches_antigravity_build_spec_v2.yml from the project root.
+   Treat the entire file as the source of truth. Do not rely on a pasted chat excerpt.
+
+2. Tech stack:
+   - Next.js App Router
+   - TypeScript
+   - Tailwind CSS
+   - Framer Motion only where useful
+   - Vercel-compatible deployment
+
+3. Assets are located at:
+   public/assets/beedstitches/
+
+4. Use the client-supplied authentic assets according to the asset map in the YAML.
+   Do not invent portfolio work, prices, testimonials, certifications, or business facts.
+
+5. Build phase 1 as a premium fashion portfolio + consultation/booking website.
+   Do not add e-commerce checkout.
+
+6. The Book Consultation form must work end-to-end.
+   Treat bookings as requests pending manual confirmation.
+
+7. If an asset referenced in the YAML is missing, continue with a clearly isolated
+   development placeholder and report the missing asset rather than inventing content.

@@ -1,0 +1,545 @@
+project:
+  name: BEEDSTITCHES Fashion Website
+  client_name: Iwunna Uchenna Michael
+  brand_name: BEEDSTITCHES Fashion
+  project_type: Premium fashion portfolio + consultation/booking website
+  primary_goal: Showcase authentic work and convert visitors into tailoring consultation and booking enquiries.
+  secondary_goal: Present the founder as a fashion designer, creative director, garment-production professional, and fashion
+    educator.
+  scope:
+    portfolio: true
+    booking_requests: true
+    whatsapp_contact: true
+    fashion_training_leads: true
+    ecommerce: false
+  non_goals:
+  - Do not build a full e-commerce checkout in phase 1.
+  - Do not invent prices, testimonials, awards, certification details, or client names.
+  - Do not copy reference websites directly.
+brand:
+  logo_asset:
+    filename: WhatsApp Image 2026-10-24 at 8.05.02 AM.jpeg
+    note: Use this client-supplied logo for the first build; replace with transparent/vector version if later provided.
+  color_system:
+    black: '#0B0B0B'
+    charcoal: '#191919'
+    gold: '#D4AF37'
+    gold_highlight: '#F2C94C'
+    off_white: '#F7F4EE'
+    white: '#FFFFFF'
+    muted_text: '#B9B1A4'
+  direction:
+  - Respect the client's existing black-and-gold identity.
+  - Use gold as an accent, not as the dominant background everywhere.
+  - Keep the experience luxurious, editorial, masculine, refined, and minimal.
+  - Use generous whitespace and large fashion imagery.
+  - Avoid gaudy gradients, excessive glow, clutter, and cheap luxury effects.
+  typography:
+    headings: Elegant editorial serif or refined fashion display font.
+    body: Clean modern sans-serif with excellent mobile readability.
+  inspiration:
+    visual: Andrew Brookes Tailoring
+    functional: The Bespoke Tailor
+    interpretation:
+    - Use premium simplicity, large imagery, whitespace, and restrained typography for the visual language.
+    - Use strong portfolio discovery and a clear consultation/appointment request flow for functionality.
+    - Do not clone either reference site.
+business:
+  founder:
+    name: Iwunna Uchenna Michael
+    titles:
+    - Founder & Creative Director
+    - Fashion Designer
+    - Fashion Educator
+    - Garment Production Supervisor
+  experience: 8+ years
+  established_year: 2018
+  address: No 29 Ogidi Street, Ogui New Layout, Enugu, Enugu State, Nigeria
+  phone: '+2348132884507'
+  whatsapp: '+2348132884507'
+  email:
+    supplied: Mykelbeed@gmail
+    verified: false
+    rule: Do not publish until the client supplies the complete valid email address.
+  social:
+    instagram: Mickeybeed
+    facebook: Iwunna Mykel Beed
+    tiktok: Mykelbeed
+    rule: Do not invent URLs; use exact profile links only when provided.
+  remote_clients: true
+  international_clients: true
+positioning:
+  summary: A Nigerian fashion house combining craftsmanship, precision, individuality, luxury, comfort, refined finishing,
+    and contemporary African design.
+  philosophy: Fashion is a combination of art, identity, craftsmanship, comfort and precision.
+  differentiators:
+  - 8+ years of hands-on garment-production experience.
+  - Bespoke and custom tailoring.
+  - Strong focus on contemporary African menswear.
+  - Production supervision and quality control.
+  - Remote custom-order capability for clients outside Nigeria.
+  - Certified fashion education and practical tailoring mentorship.
+  - At least 15 students and apprentices trained.
+  tone:
+  - Premium
+  - Confident
+  - Warm
+  - Craftsmanship-led
+  - Professional
+  - African contemporary
+services:
+- name: Kaftans & Luxury Native Wear
+  items:
+  - Classic and premium kaftans
+  - Senator-style outfits
+  - Contemporary native wear
+  - Embellished and detailed kaftan designs
+  - Luxury two-piece native sets
+- name: Jalabia & Traditional Wear
+  items:
+  - Traditional jalabias
+  - Modernized cultural garments
+  - Relaxed-fit traditional outfits
+  - Customized traditional pieces
+- name: Vintage & Two-Piece Outfits
+  items:
+  - Vintage-inspired two-piece sets
+  - Matching shirts and trousers
+  - Cubana-inspired outfits
+  - Casual and semi-formal sets
+- name: Shirts & Contemporary Menswear
+  items:
+  - Casual and corporate-casual shirts
+  - Mesh and net shirts
+  - Statement shirts
+  - Customized shirts with premium finishing
+- name: Casual Wear & Streetwear
+  items:
+  - Two-piece casual outfits
+  - Sleeveless tracksuits
+  - Short-sleeved and long-sleeved sets
+  - Hoodies and coordinated streetwear
+- name: Cultural & Heritage-Inspired Fashion
+  items:
+  - Isi Agu outfits
+  - Ankara-inspired designs
+  - Lace native wear
+  - Modern interpretations of African traditional clothing
+- name: Additional Fashion Services
+  items:
+  - Bespoke and custom tailoring
+  - Luxury casualwear
+  - Couture-inspired garments
+  - Ready-to-wear concepts
+  - Corporate and smart casualwear
+  - Custom fashion design and garment development
+  - Garment production and finishing
+navigation:
+  items:
+  - Home
+  - Portfolio
+  - Services
+  - Fashion Training
+  - About
+  - Book Consultation
+  - Contact
+  desktop_primary_cta: Book Consultation
+  mobile_primary_cta: Book
+  secondary_cta: WhatsApp Us
+pages:
+  home:
+    objective: Establish premium positioning quickly, show strong work, and drive visitors to the portfolio or booking flow.
+    sections:
+    - type: hero
+      eyebrow: BEEDSTITCHES FASHION
+      headline: Crafted With Precision. Designed To Be Remembered.
+      subheadline: Bespoke African menswear, luxury native wear and contemporary garments created with intention, comfort
+        and refined finishing.
+      primary_cta: Book a Consultation
+      secondary_cta: View Our Work
+      design: Full-bleed fashion image, restrained dark overlay, minimal copy.
+    - type: featured_portfolio
+      heading: Selected Work
+      description: A curated selection of BEEDSTITCHES garments.
+      cta: Explore Portfolio
+    - type: brand_statement
+      heading: More Than Clothing
+      body: At BEEDSTITCHES, fashion is a combination of art, identity, craftsmanship, comfort and precision.
+    - type: services_preview
+      heading: What We Create
+      max_categories: 6
+      cta: Explore Services
+    - type: process
+      heading: From Idea to Finished Garment
+      steps:
+      - Tell Us What You Need
+      - Consultation & Measurements
+      - Craft & Finish
+      - Fitting & Delivery
+    - type: founder
+      heading: Meet the Designer
+      body: Iwunna Uchenna Michael is the Founder and Creative Director of BEEDSTITCHES, with over eight years of practical
+        experience in bespoke tailoring, garment construction, production supervision and fashion education.
+      cta: About Michael
+    - type: training
+      heading: Learn the Craft
+      body: Practical fashion education and mentorship for aspiring tailors and garment makers.
+      cta: Explore Fashion Training
+    - type: final_cta
+      heading: Ready To Create Something Made For You?
+      body: Start with a consultation and tell us what you have in mind.
+      primary_cta: Book Consultation
+      secondary_cta: Chat on WhatsApp
+  portfolio:
+    title: Portfolio
+    intro: A selection of custom garments and contemporary African fashion by BEEDSTITCHES.
+    filters:
+    - All
+    - Kaftans
+    - Jalabias
+    - Two-Piece
+    - Shirts
+    - Casual & Streetwear
+    - Cultural & Heritage
+    rules:
+    - Use only authentic client-supplied portfolio images.
+    - Do not use AI-generated fashion imagery as completed client work.
+    - Prioritize the strongest, clearest images instead of displaying everything.
+    - Each item may contain title, category, optional short description, and optional gallery.
+    item_cta: Book a Similar Look
+  services:
+    title: Services
+    objective: Explain what BEEDSTITCHES makes without turning the page into a long CV.
+    source: services
+    final_cta:
+      heading: Have a Different Design in Mind?
+      text: Send us your reference or idea and let us discuss a custom piece.
+      button: Start Your Consultation
+  fashion_training:
+    title: Fashion Training
+    hero_heading: Learn Fashion Through Practice
+    intro: Practical training and mentorship in fabric selection, cutting, garment construction, stitching, finishing and
+      professional presentation.
+    proof_points:
+    - Certified Fashion Educator
+    - 8+ years of practical fashion experience
+    - At least 15 students and apprentices trained
+    curriculum:
+    - Fabric sourcing and selection
+    - Garment cutting
+    - Stitching and construction
+    - Finishing and attention to detail
+    - Practical tailoring exercises
+    - Production standards
+    cta: Enquire About Training
+    rule: Do not claim a certification issuer, formal qualification title, course duration, price or certification date until
+      verified.
+  about:
+    title: About BEEDSTITCHES
+    sections:
+    - Brand Story
+    - Design Philosophy
+    - Meet the Founder
+    - 8+ Years of Craftsmanship
+    - Fashion Education & Mentorship
+    - Quality & Production Standards
+    copy_rules:
+    - Condense the supplied biography and resume into customer-facing copy.
+    - Do not paste the resume verbatim.
+    - Avoid job-application language.
+    - Focus on craftsmanship, client experience, quality, and African fashion.
+  booking:
+    title: Book a Consultation
+    intro: Tell us what you want to create. We will review your request and contact you to confirm the next step.
+    mode: request_based_manual_confirmation
+    fields:
+    - key: full_name
+      label: Full Name
+      type: text
+      required: true
+    - key: phone
+      label: Phone / WhatsApp
+      type: tel
+      required: true
+    - key: email
+      label: Email
+      type: email
+      required: false
+    - key: location
+      label: Your Location
+      type: text
+      required: true
+    - key: service
+      label: What would you like us to make?
+      type: select
+      required: true
+      options:
+      - Kaftan / Native Wear
+      - Jalabia / Traditional Wear
+      - Two-Piece Outfit
+      - Shirt / Contemporary Menswear
+      - Casual / Streetwear
+      - Cultural / Heritage Outfit
+      - Corporate / Smart Casual
+      - Custom Design
+      - Garment Production
+      - Fashion Training
+      - Other
+    - key: consultation_type
+      label: Consultation Type
+      type: select
+      required: true
+      options:
+      - In-person in Enugu
+      - Phone / WhatsApp
+      - Video consultation
+      - Remote / International order
+    - key: occasion
+      label: What is the outfit for?
+      type: text
+      required: false
+    - key: event_date
+      label: Event / Needed By Date
+      type: date
+      required: false
+    - key: preferred_date
+      label: Preferred Consultation Date
+      type: date
+      required: true
+    - key: preferred_time
+      label: Preferred Time
+      type: time
+      required: false
+    - key: reference_image
+      label: Upload Inspiration / Reference
+      type: file
+      required: false
+      accept:
+      - image/jpeg
+      - image/png
+      - image/webp
+    - key: message
+      label: Tell us about the outfit
+      type: textarea
+      required: false
+    success:
+      heading: Request Received
+      message: Thank you. BEEDSTITCHES will review your request and contact you to confirm your consultation.
+    rules:
+    - Do not auto-confirm appointments in phase 1.
+    - Prevent past dates.
+    - Add server-side validation and spam protection.
+    - Keep the form fast and mobile-friendly.
+  contact:
+    phone: '+2348132884507'
+    whatsapp: '+2348132884507'
+    address: No 29 Ogidi Street, Ogui New Layout, Enugu, Enugu State, Nigeria
+    email: Hide until corrected and verified.
+    social_labels:
+      instagram: Mickeybeed
+      facebook: Iwunna Mykel Beed
+      tiktok: Mykelbeed
+content:
+  founder_summary: Iwunna Uchenna Michael is the Founder and Creative Director of BEEDSTITCHES Fashion, a Nigerian fashion
+    house focused on quality craftsmanship, contemporary African menswear, garment production and practical fashion education.
+  experience_summary: With more than eight years of hands-on experience, BEEDSTITCHES brings practical knowledge across concept
+    development, fabric selection, cutting, garment construction, finishing, quality control and client delivery.
+  remote_summary: BEEDSTITCHES also works with remote and international clients, translating visual references and individual
+    style preferences into carefully constructed custom garments.
+  philosophy_summary: We transform ideas and fabrics into garments that reflect the personality of the wearer, with careful
+    attention to fabric, cut, construction, finishing, comfort and confidence.
+assets:
+  available:
+    logo:
+      filename: WhatsApp Image 2026-10-24 at 8.05.02 AM.jpeg
+  required_before_final_launch:
+  - 15-30 strongest portfolio images organized by category.
+  - 2-5 strong photos of the founder/designer.
+  - Customer testimonials if available.
+  - Exact social profile URLs.
+  - Confirmed valid email address.
+  - 'Booking availability: days and working hours.'
+  - Whether consultations are free or paid.
+  - Any cancellation, deposit, production-time, and delivery policy to publish.
+  - Exact fashion-educator certification issuer/title/date if it will be publicly displayed.
+  image_rules:
+  - Use client-supplied imagery as the primary visual content.
+  - Optimize to WebP/AVIF where appropriate.
+  - Use meaningful alt text.
+  - Keep portfolio grid aspect ratios consistent.
+  - Do not aggressively upscale poor-quality images.
+ux:
+  principles:
+  - Photography first.
+  - One clear primary CTA per section.
+  - Mobile-first.
+  - Premium but uncomplicated.
+  - Short paragraphs and strong hierarchy.
+  - Low-friction booking.
+  mobile:
+  - Use a compact sticky header or bottom CTA with Book and WhatsApp actions.
+  - Make portfolio interactions touch-friendly.
+  - Use large form controls and tap targets.
+  motion:
+    allowed:
+    - Soft image reveals
+    - Gentle fade/slide on scroll
+    - Minimal hover transitions
+    avoid:
+    - Heavy parallax
+    - Excessive motion
+    - Flashy gold animation
+    - Anything that delays content access
+seo:
+  default_title: BEEDSTITCHES Fashion | Bespoke Tailoring & African Menswear in Enugu
+  default_description: BEEDSTITCHES Fashion creates bespoke kaftans, native wear, jalabias, two-piece outfits, contemporary
+    African menswear and custom garments in Enugu, Nigeria.
+  target_topics:
+  - Bespoke tailor Enugu
+  - Fashion designer Enugu
+  - Men's native wear Enugu
+  - Kaftan designer Nigeria
+  - Custom menswear Nigeria
+  - African menswear designer
+  - Tailoring training Enugu
+  requirements:
+  - Unique metadata per page.
+  - Open Graph metadata.
+  - Sitemap.xml and robots.txt.
+  - Semantic headings.
+  - Descriptive alt text.
+  - Appropriate structured data only where factually accurate.
+  - No keyword stuffing.
+technical:
+  recommended_stack:
+    framework: Next.js App Router
+    language: TypeScript
+    styling: Tailwind CSS
+    motion: Framer Motion only where useful
+    deployment: Vercel-compatible
+  architecture:
+  - Reusable components and sections.
+  - Portfolio and services data separated from UI so a CMS can be added later.
+  - Booking submission logic isolated from presentation.
+  - Keep business content editable in simple data/config files.
+  future_ready:
+  - CMS integration
+  - Customer accounts
+  - Online deposits/payments
+  - Ready-to-wear e-commerce
+  - Measurement profiles
+  - Order tracking
+  quality:
+  - No TypeScript errors.
+  - No broken links.
+  - Responsive from 320px upward.
+  - Keyboard accessible.
+  - Visible focus states.
+  - Good color contrast.
+  - Performance-oriented image loading.
+  - Avoid layout shift.
+antigravity:
+  instruction: Build a production-quality website, not a static mockup.
+  rules:
+  - Treat this YAML as the source of truth.
+  - Do not invent missing client facts.
+  - Do not create fake testimonials, portfolio work, prices, certifications, or institutions.
+  - Use the supplied black-and-gold identity.
+  - Keep the site elegant, editorial, and minimal.
+  - Temporary development placeholders must be clearly isolated and easy to replace.
+  - Every CTA must lead somewhere functional.
+  - The Book Consultation form must work end-to-end.
+  - WhatsApp CTAs must use +2348132884507.
+  - Remote and international clients must be acknowledged.
+  - No e-commerce checkout in phase 1.
+  acceptance:
+  - Home page communicates the brand clearly above the fold.
+  - Portfolio is visually dominant and easy to filter.
+  - Services are clear and concise.
+  - Founder credibility is visible without dumping the full resume.
+  - Fashion training has a separate enquiry path.
+  - Booking flow is easy on mobile.
+  - No invented business facts appear anywhere.
+portfolio_assets_current_batch:
+  usage_rule:
+  - Use these as authentic BEEDSTITCHES work/process assets. Do not replace them with stock or AI images where these assets
+    fit.
+  - Do not publish visible prices from an image unless the client confirms the price is current.
+  - Do not publish customer names/testimonial screenshots without client approval.
+  - Prefer the strongest garment photos on Home; use process/detail assets deeper in the site.
+  - More assets will arrive in later batches; append them to this map rather than replacing this batch.
+  duplicates_to_ignore:
+  - WhatsApp Image 2026-10-23 at 1.11.41 PM (29) - Copy.jpeg
+  - WhatsApp Image 2026-10-23 at 1.11.41 PM (28) - Copy.jpeg
+  - WhatsApp Video 2026-10-23 at 1.11.41 PM (2) - Copy.mp4
+  - WhatsApp Video 2026-10-23 at 1.11.41 PM (1) - Copy.mp4
+  - WhatsApp Video 2026-10-23 at 1.11.41 PM - Copy.mp4
+  hero_candidates:
+  - file: WhatsApp Image 2026-10-23 at 1.11.41 PM (23).jpeg
+    description: Client/model in an all-white contemporary traditional/native outfit beside a luxury SUV.
+    recommended_use: Primary hero candidate or premium campaign banner.
+    category: Traditional & Contemporary African Fashion
+  - file: WhatsApp Image 2026-10-23 at 1.11.41 PM (19).jpeg
+    description: Two men in coordinated teal/green flowing African traditional looks.
+    recommended_use: Homepage featured work or Cultural & Heritage portfolio lead image.
+    category: Cultural & Heritage-Inspired Fashion
+  - file: WhatsApp Image 2026-10-23 at 1.11.41 PM (29).jpeg
+    description: Man in blue native/two-piece look holding a branded BEEDSTITCHES package.
+    recommended_use: Brand credibility section, delivery/client experience, or featured portfolio.
+    category: Kaftans & Luxury Native Wear
+  portfolio_items:
+  - file: WhatsApp Image 2026-10-23 at 1.11.41 PM (21).jpeg
+    category: Kaftans & Luxury Native Wear
+    working_title: Royal Blue Native Set
+    recommended_use: Portfolio grid
+  - file: WhatsApp Image 2026-10-23 at 1.11.41 PM (27) - Copy.jpeg
+    category: Kaftans & Luxury Native Wear
+    working_title: Clean White Native Look
+    recommended_use: Portfolio grid; rename if original non-copy file is later uploaded
+  - file: WhatsApp Image 2026-10-23 at 1.11.41 PM (26).jpeg
+    category: Vintage & Two-Piece Outfits
+    working_title: Black & Gold Two-Piece
+    recommended_use: Portfolio grid / casual statement section
+  - file: WhatsApp Image 2026-10-23 at 1.11.41 PM (25).jpeg
+    category: Casual Wear & Streetwear
+    working_title: Purple Textured Short Set
+    recommended_use: Portfolio grid / ready-to-wear concepts
+  - file: WhatsApp Image 2026-10-23 at 1.11.41 PM (28).jpeg
+    category: Shirts & Contemporary Menswear
+    working_title: White Contemporary Two-Piece
+    recommended_use: Portfolio/product-concept image only after removing or validating visible price
+    warning: Image contains an 80k price marker. Do not advertise this as a current price unless confirmed.
+  craftsmanship_and_brand_story:
+  - file: WhatsApp Image 2026-10-23 at 1.11.41 PM (20).jpeg
+    description: Sewing machine, BEEDSTITCHES branding and hand-drawn garment concept.
+    recommended_use: Craftsmanship/process section on Home or About.
+  - file: WhatsApp Image 2026-10-23 at 1.11.41 PM (24).jpeg
+    description: Close-up garment construction/finishing with BEEDSTITCHES hang tag.
+    recommended_use: Detail/quality-control section; use as supporting crop.
+  testimonial_assets:
+  - file: WhatsApp Image 2026-10-23 at 1.11.41 PM (22).jpeg
+    source_name_visible: Ray
+    extractable_quote: The cloth looks simple and classy.
+    recommended_use: Convert into a clean testimonial card rather than showing the raw screenshot, once publication permission
+      is confirmed.
+    permission_required: true
+  video_assets:
+  - file: WhatsApp Video 2026-10-23 at 1.11.41 PM (1).mp4
+    recommended_use: Behind-the-scenes/process media. Review and use as short muted loop or extract a strong still.
+  - file: WhatsApp Video 2026-10-23 at 1.11.41 PM (2).mp4
+    recommended_use: Behind-the-scenes garment/detail media. Review and use as short muted loop or extract a strong still.
+  - file: WhatsApp Video 2026-10-23 at 1.11.41 PM.mp4
+    recommended_use: Production/process media. Review before use; avoid autoplay with sound.
+  homepage_asset_plan:
+    hero: Prefer (23).jpeg first; use (19).jpeg as alternate if the layout benefits from two subjects.
+    selected_work:
+    - (19).jpeg
+    - (21).jpeg
+    - (25).jpeg
+    - (26).jpeg
+    - (29).jpeg
+    craftsmanship:
+    - (20).jpeg
+    - (24).jpeg
+    social_proof: (22).jpeg, transformed into styled text after approval
+    final_cta_background: Use a clean garment/model image from later batches if a stronger wide image arrives.
